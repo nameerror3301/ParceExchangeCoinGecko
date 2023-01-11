@@ -22,7 +22,7 @@ To run it, run **main.go** file which is located in the root directory of the pr
 
 ## Developers
 
-- [OneByteForLife](https://github.com/nameerror3301)
+- [OneByteForLife](https://github.com/OneByteForLife)
 
 ## License
 
